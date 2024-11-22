@@ -17,8 +17,9 @@ In this section, it is recommended to learn the basics of programming. I chose a
 
 - [Introduction to Programming](https://youtu.be/06h470AiBZ4?si=c1n3gizu-Mt-7Zmg)
 - [JavaScript OOP](https://youtube.com/playlist?list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF&si=03GE0FBamCeX6HMg)
-- [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
-- [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
+- [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)[paid]
+- [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)[paid]
+- [Algorithms & Data Structure using js] (https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&pp=iAQB)
 
 ## Introduction to Web Development
 
@@ -50,17 +51,23 @@ In this section, you will learn the basics of web development. You will learn ho
 - [HTML And CSS Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc&si=jrWRC2gJDf54Gsds)
 - [HTML And CSS Template 4](https://youtu.be/DflEcuzjsyA?si=kj4Kz23Vzvs4D9_Z)[6:30 H]
 
+### _Tailwaind_
+
+- [Tailwaind](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB) [Arabic]
+- [Build and Deploy a Nike Website using Tailwaind](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB) [3H][English]
+
 ### _Version Control & Version Control Systems_
 
 - [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=FvOQJOtuIKrB064X)
 
 ### _JavaScript_
-
-
-- [The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/) **[paid]**
-- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) **[paid]**
-
+- [Elzero Course Part1] (https://www.youtube.com/watch?v=gIGGhFlGgLI)[10H] [Arabic]
+- [Elzero Course Part2] (https://www.youtube.com/watch?v=FKrfis1W1tk)[8H] [Arabic]
+- [JavaScript under the hood] (https://www.youtube.com/watch?v=DFSuoa3Dpj8&list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn&pp=iAQB)[Arabic]
+- [Jonas Course] (https://www.udemy.com/course/the-complete-javascript-course/) **[paid]** [English] 
+- [The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/) **[paid]** [English] 
+- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/) **[paid]** [English] 
+- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) **[paid]** [English] 
 
 
 ### _Package Managers_
@@ -72,13 +79,15 @@ In this section, you will learn the basics of web development. You will learn ho
 
 ### _UI Frameworks_
 
-- [Tailwind CSS](https://frontendmasters.com/courses/tailwind-css/)
 - [Shadcn UI](https://youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma&si=gVsJErApGHHBb51p): skip it for now, you can learn it with Next.js
 - [Radix UI](https://www.radix-ui.com/): skip it for now, you can learn it with React
 
 ## Advanced Web Development
 
 In this section, you will learn the advanced topics of web development. You will learn how to create a web application using React, Next.js, and other tools.
+
+### _Webpack_
+- [Webpack 5 Crash Course](https://www.youtube.com/watch?v=IZGNcSuwBZs) [English] [40 min]
 
 ### _React_
 
@@ -88,6 +97,27 @@ In this section, you will learn the advanced topics of web development. You will
 
 #### _Frontend Masters + Youtube Path_
 
+- [React course](https://youtu.be/nFIVU4ni9Gk?si=8d3ZfCnit_Qt3Crl)[5:40 H][Arabic]
+- [React Typescript](https://youtu.be/gieEQFIfgYc?si=iI6-qUbzHzOuNP1R)[8H] [English]
+
+- [Redux](https://www.youtube.com/watch?v=RHsuArdyZUI&list=PLejc1JbD4ZFQFvS469VXyCPO_py_kvVD5&pp=iAQB)[Arabic]
+- [Redux](https://youtu.be/NqzdVN2tyvQ?si=6YH1L0P6gcqxjjiN)[English][4H]
+  
+- [React Query](https://youtu.be/NOvx4LB6Hfk?si=NM3m4WA9QSH8K2C9)[English][40 Min]
+  
+- [React Hook Form + Zod](https://youtu.be/7anLE_RoDwU?si=jdF0SnxzOJBe9MyG)[3H][English]
+- [React Hook Form + Zod](https://www.youtube.com/watch?v=KejZXxFCe2k&list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s&pp=iAQB)[English]
+- [React Axios API Requests](https://youtu.be/ZEKBDXGnD4s?si=tHfjrJerQ_DUUP7K)[40 min][English]
+  
+- [E-commerse kimz-code](https://www.youtube.com/watch?v=qfgikh48ZzU&list=PLejc1JbD4ZFS4sEpIpLfD18FEnEpafVbz&pp=iAQB)[Arabic]
+
+### _UI Frameworks_
+
+- [Shadcn UI](https://youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma&si=gVsJErApGHHBb51p)
+- [shadcn/ui and TanStack Table](https://youtu.be/kHfDLN9w1KQ?si=XsWMJA_pxNgVy6qT)
+- [Radix UI](https://www.radix-ui.com/)
+
+  ## Frontend Master [Paid][English]
 - [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/)
 - [Intermediate React, v5](https://frontendmasters.com/courses/intermediate-react-v5/)
 - [Vite](https://frontendmasters.com/courses/vite/)
@@ -95,20 +125,19 @@ In this section, you will learn the advanced topics of web development. You will
 - [Zustand React State Management](https://youtu.be/fZPgBnL2x-Q?si=9LSpiZLopknCzPjp)
 - [Redux Fundamentals](https://frontendmasters.com/courses/redux-fundamentals/) Optional
 - [Advanced Redux with Redux Toolkit](https://frontendmasters.com/courses/advanced-redux/) Optional
-- [React Hook Form + Zod](https://youtu.be/7anLE_RoDwU?si=jdF0SnxzOJBe9MyG)
-- [React Axios API Requests](https://youtu.be/ZEKBDXGnD4s?si=tHfjrJerQ_DUUP7K)
-- [React Query](https://youtu.be/NOvx4LB6Hfk?si=NM3m4WA9QSH8K2C9)
 - [Client-Side GraphQL in React](https://frontendmasters.com/courses/client-graphql-react/)
 
 ### _TypeScript_
-
+- [Elzero course](https://www.youtube.com/watch?v=yUndnE-2osg&list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ&pp=iAQB)
 - [TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)
 - [Intermediate TypeScript, v2](https://frontendmasters.com/courses/intermediate-typescript-v2/)
 - [React and TypeScript, v2](https://frontendmasters.com/courses/react-typescript-v2/)
 
 ### _Next.js_
+- [Next course](https://www.youtube.com/watch?v=vCOSTG10Y4o&t=16338s)[5H][English]
+- [Next js 15](https://youtu.be/fqabW3WRUbw?si=tSb3GVB5drU-M5kL)[15min][English]
+- [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)[paid]
+- [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=LEADERSALE24B)[paid]
 
-- [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)
-- [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=LEADERSALE24B)
 
 In this roadmap, I tried to include the most important topics that you need to learn to become a front-end developer from my point of view. Don't stop learning, keep practicing, and build projects. If you have any questions, feel free to ask me on [LinkedIn](https://www.linkedin.com/in/selimjs/).
