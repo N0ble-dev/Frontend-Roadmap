@@ -58,8 +58,8 @@ In this section, you will learn the basics of web development. You will learn ho
 
 
 - [The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)<span style="color: #ece489;">[paid]</span>
-- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)<span style="color: #ece489;">[paid]</span>
+- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)<span style="color: #ec4899;">[paid]</span>
+- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)<span style="color: #ec4899;">[paid]</span>
 
 
 ### _Package Managers_
