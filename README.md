@@ -7,7 +7,7 @@ Are you looking to navigate the ever-evolving world of frontend development? Whe
 ## **Roadmap Versions**
 
 - [_2024_](/2024/)
-- [_2023_](/2023/)
+
 
 ## **Contributing**
 
