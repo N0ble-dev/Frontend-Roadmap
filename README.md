@@ -1,4 +1,4 @@
-# **Front End Roadmap **
+# **Front End Roadmap**
 
 ![roadmap 2024](./roadmap.svg "roadmap 2024")
 
