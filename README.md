@@ -39,17 +39,16 @@ In this section, you will learn the basics of web development. You will learn ho
 
 ### _HTML_
 
-- [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/)
-- [Why & When to Use Semantic HTML Elements over Divs](https://youtu.be/bOUhq46fd5g?si=Jz-Oa_TNmBxxOPq-)
+- [Complete Html course elzero){https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL}[4H]
 - [Why you shouldn't use a div for everything - Accessibility](https://youtu.be/YAqRQoN8ykI?si=Zoukk8hXMoc8PVyR)
 
 ### _CSS_
 
-- [Getting Started with CSS](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF)
+- [Getting Started with CSS](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF) [11H]
 - [HTML And CSS Template 1](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF&si=-1IF_h3EvCvEihag)
 - [HTML And CSS Template 2](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t&si=ahu72nckOT4dW-K2)
 - [HTML And CSS Template 3](https://youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc&si=jrWRC2gJDf54Gsds)
-- [HTML And CSS Template 4](https://youtube.com/playlist?list=PLDoPjvoNmBAyGaRGzPVZCkYx5L7Mo9Tbh&si=fk5jd-mU9Yk-KwpU)
+- [HTML And CSS Template 4](https://youtu.be/DflEcuzjsyA?si=kj4Kz23Vzvs4D9_Z)[6:30 H]
 
 ### _Version Control & Version Control Systems_
 
@@ -57,13 +56,10 @@ In this section, you will learn the basics of web development. You will learn ho
 
 ### _JavaScript_
 
-- [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
-- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
-- [Vanilla JS: You Might Not Need a Framework](https://frontendmasters.com/learn/javascript/)
+
 - [The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/)
-- [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
-- [Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
-- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)
+- [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/)<span style="color: "#ece4899";">[paid]</span>
+- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)<span style="color: "#ece4899";">[paid]</span>
 
 ### _Package Managers_
 
