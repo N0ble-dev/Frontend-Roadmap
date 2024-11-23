@@ -55,7 +55,7 @@ In this section, you will learn the basics of web development. You will learn ho
 ### _Tailwaind_
 
 - [Tailwaind](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB) [Arabic]
-- [Tailwaind]([https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB](https://www.youtube.com/watch?v=Pk3hhCJG2Dk&t=130s)) [Arabic]
+- [Tailwaind](https://www.youtube.com/watch?v=Pk3hhCJG2Dk&t=130s) [Arabic]
 - [Tailwaind](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) [English]
 ### _Version Control & Version Control Systems_
 
