@@ -77,10 +77,7 @@ In this section, you will learn the basics of web development. You will learn ho
 - [PNPM](https://pnpm.io/)
 - [Yarn](https://yarnpkg.com/)
 
-### _UI Frameworks_
 
-- [Shadcn UI](https://youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma&si=gVsJErApGHHBb51p): skip it for now, you can learn it with Next.js
-- [Radix UI](https://www.radix-ui.com/): skip it for now, you can learn it with React
 
 ## Advanced Web Development
 
