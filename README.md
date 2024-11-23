@@ -43,6 +43,7 @@ In this section, you will learn the basics of web development. You will learn ho
 
 - [Complete Html course elzero](https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL) [4H]
 - [Why you shouldn't use a div for everything - Accessibility](https://youtu.be/YAqRQoN8ykI?si=Zoukk8hXMoc8PVyR)
+- [SEO](https://www.youtube.com/playlist?list=PLdYYj2XLw5BlY0hM1JVCOYCZqctQH-w1-)
 
 ### _CSS_
 
