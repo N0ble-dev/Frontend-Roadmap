@@ -132,6 +132,7 @@ In this section, you will learn the advanced topics of web development. You will
 - [React and TypeScript, v2](https://frontendmasters.com/courses/react-typescript-v2/)
 
 ### _Next.js_
+- [Max Course](https://www.udemy.com/course/nextjs-react-the-complete-guide/?srsltid=AfmBOopn2gp3QAL7w-zE2MuqELxJpQ92TzhsujL-SM46DFDJujP7lpQ6&couponCode=BFCPSALE24) [Paid]
 - [Next course](https://www.youtube.com/watch?v=vCOSTG10Y4o&t=16338s)[5H][English]
 - [Next js 15](https://youtu.be/fqabW3WRUbw?si=tSb3GVB5drU-M5kL)[15min][English]
 - [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)[paid]
