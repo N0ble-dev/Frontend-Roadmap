@@ -55,8 +55,8 @@ In this section, you will learn the basics of web development. You will learn ho
 ### _Tailwaind_
 
 - [Tailwaind](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB) [Arabic]
-- [Build and Deploy a Nike Website using Tailwaind](https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB) [3H][English]
-
+- [Tailwaind]([https://www.youtube.com/watch?v=dr2GVki4HAs&list=PLnD96kXp-_pMR9cBUmvsz_kIIt9bv2UIP&pp=iAQB](https://www.youtube.com/watch?v=Pk3hhCJG2Dk&t=130s)) [Arabic]
+- [Tailwaind](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) [English]
 ### _Version Control & Version Control Systems_
 
 - [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=FvOQJOtuIKrB064X)
@@ -137,5 +137,8 @@ In this section, you will learn the advanced topics of web development. You will
 - [Introduction to Next.js 13+, v3](https://frontendmasters.com/courses/next-js-v3/)[paid]
 - [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/?couponCode=LEADERSALE24B)[paid]
 
+### _Framer Motion_
+- [Sam farmer motion](https://www.youtube.com/watch?v=jlEZlFX3jEM&list=PLlNdnoKwDZdwwEWvKXdR9qwDSlnkGtOjq) [English]
+- [tutorials](https://www.youtube.com/watch?v=hjbxaYTMhy0&list=PLA4qBVt61k3Phpwt7uqaptIg9NYZ5aNu_) [English]
 
 In this roadmap, I tried to include the most important topics that you need to learn to become a front-end developer from my point of view. Don't stop learning, keep practicing, and build projects. If you have any questions, feel free to ask me on [LinkedIn](https://www.linkedin.com/in/selimjs/).
