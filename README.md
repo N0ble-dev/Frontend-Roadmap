@@ -41,7 +41,7 @@ In this section, you will learn the basics of web development. You will learn ho
 
 ### _HTML_
 
-- [Complete Html course elzero)(https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL) [4H]
+- [Complete Html course elzero](https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL) [4H]
 - [Why you shouldn't use a div for everything - Accessibility](https://youtu.be/YAqRQoN8ykI?si=Zoukk8hXMoc8PVyR)
 
 ### _CSS_
@@ -62,10 +62,10 @@ In this section, you will learn the basics of web development. You will learn ho
 - [Git and GitHub](https://youtu.be/Q6G-J54vgKc?si=FvOQJOtuIKrB064X)
 
 ### _JavaScript_
-- [Elzero Course Part1] (https://www.youtube.com/watch?v=gIGGhFlGgLI)[10H] [Arabic]
-- [Elzero Course Part2] (https://www.youtube.com/watch?v=FKrfis1W1tk)[8H] [Arabic]
-- [JavaScript under the hood] (https://www.youtube.com/watch?v=DFSuoa3Dpj8&list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn&pp=iAQB)[Arabic]
-- [Jonas Course] (https://www.udemy.com/course/the-complete-javascript-course/) **[paid]** [English] 
+- [Elzero Course Part1](https://www.youtube.com/watch?v=gIGGhFlGgLI) [10H] [Arabic]
+- [Elzero Course Part2](https://www.youtube.com/watch?v=FKrfis1W1tk) [8H] [Arabic]
+- [JavaScript under the hood](https://www.youtube.com/watch?v=DFSuoa3Dpj8&list=PLxADqpeFWjH2h-CxhyXN2OZEVDkXeuckn&pp=iAQB) [Arabic]
+- [Jonas Course](https://www.udemy.com/course/the-complete-javascript-course/) **[paid]** [English] 
 - [The Hard Parts of Asynchronous JavaScript](https://frontendmasters.com/courses/javascript-new-hard-parts/) **[paid]** [English] 
 - [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/) **[paid]** [English] 
 - [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) **[paid]** [English] 
