@@ -20,7 +20,7 @@ In this section, it is recommended to learn the basics of programming. I chose a
 - [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)[paid]
 - [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)[paid]
 - [Algorithms & Data Structure using js] (https://www.youtube.com/watch?v=coqQwbDezUA&list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&pp=iAQB)
-
+- [first 78 videos to learn basic of programing with js] (https://www.youtube.com/watch?v=TbHeHAyAV7Q&list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0&pp=iAQB)
 ## Introduction to Web Development
 
 This section is dedicated to the basics of web development. You will learn how the web works, browsers, protocols, and the basics of web development.
