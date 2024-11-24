@@ -143,4 +143,4 @@ In this section, you will learn the advanced topics of web development. You will
 - [Sam farmer motion](https://www.youtube.com/watch?v=jlEZlFX3jEM&list=PLlNdnoKwDZdwwEWvKXdR9qwDSlnkGtOjq) [English]
 - [tutorials](https://www.youtube.com/watch?v=hjbxaYTMhy0&list=PLA4qBVt61k3Phpwt7uqaptIg9NYZ5aNu_) [English]
 
-In this roadmap, I tried to include the most important topics that you need to learn to become a front-end developer from my point of view. Don't stop learning, keep practicing, and build projects. If you have any questions, feel free to ask me on [LinkedIn](https://www.linkedin.com/in/selimjs/).
+In this roadmap, I tried to include the most important topics that you need to learn to become a front-end developer from my point of view. Don't stop learning, keep practicing, and build projects. If you have any questions, feel free to ask me on [LinkedIn]([https://www.linkedin.com/in/selimjs/](https://www.linkedin.com/in/n0ble-dev/)).
