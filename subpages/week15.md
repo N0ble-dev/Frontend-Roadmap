@@ -5,7 +5,7 @@
 - Regular Expressions  
 
 From lesson 134 ⇒ 146  
-[Watch Content](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+[Watch Content](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv )
 
 ## Assignment
 
