@@ -17,7 +17,7 @@ This week focuses on **control flow**, teaching you how to use conditional state
 
 ### Recommended Resource:
 
-- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv )
 
 ---
 
