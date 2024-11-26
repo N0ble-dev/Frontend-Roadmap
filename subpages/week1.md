@@ -17,7 +17,7 @@ This week focuses on building a strong foundation in **HTML**, the backbone of w
 
 ### Recommended Resource:
 
-- **Video:** [HTML Basics by Traversy Media](https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL)  
+- **Video:** [HTML Basics by Traversy Media](https://youtu.be/qfPUMV9J5yw?si=O_afHM977HOwmhXL )  
   _A great beginner-friendly video that walks you through HTML essentials._
 
 ---
