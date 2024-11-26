@@ -6,4 +6,4 @@
 
 ## Resource
 
-- [React + TypeScript Basics](https://www.youtube.com/watch?v=gieEQFIfgYc&t=2s)
+- [React + TypeScript Basics](https://www.youtube.com/watch?v=gieEQFIfgYc&t=2s )
