@@ -14,7 +14,7 @@ This week builds on your CSS knowledge with advanced topics like layout techniqu
 - Master CSS Grid and Flexbox for layouts.
 
 ### Recommended Resource:
-- **Video:** [CSS Full Course by Elzero](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF)  
+- **Video:** [CSS Full Course by Elzero](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF )  
   *Watch lessons 42 to 88 for deeper insights into CSS.*
 
 ---
