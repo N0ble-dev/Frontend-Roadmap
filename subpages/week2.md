@@ -14,7 +14,7 @@ This week focuses on mastering **CSS**, the language used to style and layout we
 - Learn about colors, backgrounds, text styles, and box model concepts.
 
 ### Recommended Resource:
-- **Video:** [CSS Full Course by Elzero](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF)  
+- **Video:** [CSS Full Course by Elzero](https://youtu.be/qyVkLebgfzY?si=uo3z-TfxxHcAluaF )  
   *Watch lessons 1 to 41 to get a solid foundation in CSS.*
 
 ---
