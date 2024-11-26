@@ -11,7 +11,7 @@ This week, you will use your skills to transform a design into a fully functiona
 ### Build a Project:
 
 - Transform the **FigmaLand Template** into an HTML & CSS project.
-- **Template:** [FigmaLand Startup Landing Page](<https://www.figma.com/design/kiP08lOk3FzDVQLSGoYKtS/Figma-startup-landing-page-dark-(Community)?node-id=0-3517&t=74tML5kr3bkw41j8-0>)
+- **Template:** [FigmaLand Startup Landing Page](<https://www.figma.com/design/kiP08lOk3FzDVQLSGoYKtS/Figma-startup-landing-page-dark-(Community)?node-id=0-3517&t=74tML5kr3bkw41j8-0> )
 
 ---
 
