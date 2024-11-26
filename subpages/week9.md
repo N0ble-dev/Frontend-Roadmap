@@ -17,7 +17,7 @@ Learn how to write efficient and reusable code by mastering **functions**. This 
 
 ### Recommended Resource:
 
-- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv )
 
 ---
 
