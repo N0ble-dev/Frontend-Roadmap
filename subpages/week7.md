@@ -17,7 +17,7 @@ This week introduces you to **JavaScript**, the programming language of the web.
 
 ### Recommended Resource:
 
-- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+- **Video Series:** [JavaScript Bootcamp by Elzero](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv )
 
 ---
 
