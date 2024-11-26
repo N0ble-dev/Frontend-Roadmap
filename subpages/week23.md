@@ -15,7 +15,7 @@
 ## Assignment
 
 Create this project:  
-[View Playlist](https://youtube.com/playlist?list=PLakmP0ibjfQcNNh7PnmIQ9zTm2bLM_wCC&si=FtmjR6HeREEkJt-7)
+[View Playlist](https://youtube.com/playlist?list=PLakmP0ibjfQcNNh7PnmIQ9zTm2bLM_wCC&si=FtmjR6HeREEkJt-7 )
 
 ## Extra Information
 
