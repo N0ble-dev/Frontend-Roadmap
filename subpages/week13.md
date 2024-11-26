@@ -5,7 +5,7 @@
 - Destructuring
 
 From lesson 115 ⇒ 122  
-[Watch Content](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+[Watch Content](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv )
 
 ## Assignment
 
