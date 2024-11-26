@@ -15,7 +15,7 @@ Learn **Bootstrap 5**, a popular CSS framework for building responsive and moder
 
 ### Recommended Resource:
 
-- **Video Series:** [Bootstrap 5 Full Course](https://www.youtube.com/watch?v=EvHQ0K0JZIY&list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7&pp=iAQB)
+- **Video Series:** [Bootstrap 5 Full Course](https://www.youtube.com/watch?v=EvHQ0K0JZIY&list=PLnD96kXp-_pMJp3stPetkN76AJ2mmeah7&pp=iAQB )
 
 ---
 
