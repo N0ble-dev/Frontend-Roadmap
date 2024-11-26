@@ -11,4 +11,4 @@
 ## Assignment
 
 Solve assignments from lessons 1 ⇒ 21  
-[Assignment Resource](https://elzero.org/study/typescript-study-plan/)
+[Assignment Resource](https://elzero.org/study/typescript-study-plan/ )
