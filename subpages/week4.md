@@ -16,7 +16,7 @@ This week focuses on applying your HTML and CSS knowledge to real-world projects
 ### Recommended Resources:
 
 - **Templates Playlist 1:** [HTML & CSS Templates](https://youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF&si=-1IF_h3EvCvEihag)
-- **Templates Playlist 2:** [Practice Templates](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t&si=ahu72nckOT4dW-K2)
+- **Templates Playlist 2:** [Practice Templates](https://youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t&si=ahu72nckOT4dW-K2 )
 
 ---
 
