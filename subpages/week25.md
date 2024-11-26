@@ -6,4 +6,4 @@
 
 ## Resource
 
-[Watch Content](https://youtu.be/tIdNeoHniEY?si=W0QRtTUl8dKz2nsd)
+[Watch Content](https://youtu.be/tIdNeoHniEY?si=W0QRtTUl8dKz2nsd )
